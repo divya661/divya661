@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Fynd (transferred from **Jio** for project)
+- 🔭 I’m currently working in **Jio**
 - 🌱 Currently, I'm a Fullstack Developer -
   - 85% work in **Frontend**( React.js, Next.js, Redux, Redux Toolkit, Redux Thunk, Tailwind CSS, Styled Components, Angular, Javascript, HTML, CSS)
   -  10% in **Backend** (Node.js, Express.js and Golang)
