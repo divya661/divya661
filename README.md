@@ -7,5 +7,5 @@
   -  5% in **DevOps** (Docker, GCP-GKE, cloud functions, firestore & realtime database, VM's & Azure-CI/CD pipelines, Helm charts)
 - 🔍 I’m looking to new job in **Frontend Development**
 - 📝 I'm currently learning React & Javascript internals
-- 📫 How to reach me: divyachauhan661@gmail.com
+- 📫 Reach me: divyachauhan661@gmail.com
 
